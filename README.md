@@ -25,3 +25,15 @@ Mô phỏng Flash ADC 3-bit trên Cadence
 #### **FIRM WARE**
 <img width="464" height="293" alt="image" src="https://github.com/user-attachments/assets/cc668b12-dcbe-4617-b4e9-fca8d02aa338" /> 
 (Setup VDD=2.8V, A/B= pulse{0,2} )
+
+## **2. Mô phỏng khối Encoder**
+#### **TÍNH TOÁN**
+<img width="639" height="529" alt="image" src="https://github.com/user-attachments/assets/1b4df439-f534-4ff3-aa1f-5fdd7144642c" />
+
+Theo tính toán trên lý thuyết ta cần 3 cổng OR 4 ngõ vào để tạo mạch Encoder
+#### **SCHEMATIC OR_4**
+<img width="476" height="308.5" alt="Screenshot 2025-09-24 000733" src="https://github.com/user-attachments/assets/8d3562d8-ff5a-4a96-80f1-572f37720567" />
+
+
+
+
